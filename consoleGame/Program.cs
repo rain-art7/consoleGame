@@ -10,7 +10,7 @@ namespace consoleGame
     {
         static void Main(string[] args)
         {
-            var player = new Character("Dravolas", "Male", 50, 200);
+            var player = new Character("Dravolas the conqueror", "Male", 50, 200);
             player.Stats();
 
             var computer = new Character("Computer", "unknown", 50, 200);
