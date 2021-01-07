@@ -1,0 +1,7 @@
+C:\Users\jan34\source\repos\consoleGame\consoleGame\bin\Debug\consoleGame.exe.config
+C:\Users\jan34\source\repos\consoleGame\consoleGame\bin\Debug\consoleGame.exe
+C:\Users\jan34\source\repos\consoleGame\consoleGame\bin\Debug\consoleGame.pdb
+C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.csprojAssemblyReference.cache
+C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.csproj.CoreCompileInputs.cache
+C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.exe
+C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.pdb
