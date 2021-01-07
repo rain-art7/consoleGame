@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Console = Colorful.Console;
+using System.Drawing;
 
 namespace consoleGame
 {
@@ -10,7 +12,29 @@ namespace consoleGame
     {
         static void Main(string[] args)
         {
-            var player = new Character("Dravolas the conqueror", "Male", 50, 200);
+            Console.ForegroundColor = Color.Black;
+            Console.BackgroundColor = Color.SlateGray;
+
+            Console.Clear();
+
+            Console.WriteLine(@"
+
+        
+        ██████╗ ██╗   ██╗███╗   ██╗ ██████╗ ███████╗ ██████╗ ███╗   ██╗        ██████╗ ███████╗       ██████╗  ██████╗  ██████╗ ███╗   ███╗
+        ██╔══██╗██║   ██║████╗  ██║██╔════╝ ██╔════╝██╔═══██╗████╗  ██║       ██╔═══██╗██╔════╝       ██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║
+        ██║  ██║██║   ██║██╔██╗ ██║██║  ███╗█████╗  ██║   ██║██╔██╗ ██║       ██║   ██║█████╗         ██║  ██║██║   ██║██║   ██║██╔████╔██║
+        ██║  ██║██║   ██║██║╚██╗██║██║   ██║██╔══╝  ██║   ██║██║╚██╗██║       ██║   ██║██╔══╝         ██║  ██║██║   ██║██║   ██║██║╚██╔╝██║
+        ██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝███████╗╚██████╔╝██║ ╚████║       ╚██████╔╝██║            ██████╔╝╚██████╔╝╚██████╔╝██║ ╚═╝ ██║
+        ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝        ╚═════╝ ╚═╝            ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
+                                                                                                                                   
+
+
+
+                                                                          ", Color.DarkRed);
+            System.Console.WriteLine("Press any key to start the game");
+            Console.ReadKey(true);
+
+            var player = new Character("Dravolas", "Male", 50, 200);
             player.Stats();
 
             var computer = new Character("Computer", "unknown", 50, 200);
@@ -34,10 +58,10 @@ namespace consoleGame
 
             if(player.IsAlive == true)
             {
-                Console.WriteLine("Congratulations, you won the game !");
+                Console.WriteLine("\nCongratulations, you won the game !");
             }else if (player.IsAlive == false)
             {
-                Console.WriteLine("You lost.");
+                Console.WriteLine("\nYou lost.");
             }
             else
             {

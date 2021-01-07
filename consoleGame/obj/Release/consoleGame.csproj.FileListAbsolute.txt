@@ -1,0 +1,8 @@
+C:\Users\jan34\source\repos\consoleGame\consoleGame\bin\Release\consoleGame.exe.config
+C:\Users\jan34\source\repos\consoleGame\consoleGame\bin\Release\consoleGame.exe
+C:\Users\jan34\source\repos\consoleGame\consoleGame\bin\Release\consoleGame.pdb
+C:\Users\jan34\source\repos\consoleGame\consoleGame\bin\Release\Colorful.Console.dll
+C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Release\consoleGame.csproj.CoreCompileInputs.cache
+C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Release\consoleGame.csproj.CopyComplete
+C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Release\consoleGame.exe
+C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Release\consoleGame.pdb

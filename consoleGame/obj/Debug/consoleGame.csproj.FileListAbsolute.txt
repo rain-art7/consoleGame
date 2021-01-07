@@ -5,3 +5,14 @@ C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.csproj
 C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.csproj.CoreCompileInputs.cache
 C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.exe
 C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.pdb
+C:\Users\jan34\source\repos\consoleGame\consoleGame\bin\Debug\Colorful.Console.dll
+C:\Users\jan34\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.csproj.CopyComplete
+C:\Users\selfmade\source\repos\consoleGame\consoleGame\bin\Debug\consoleGame.exe.config
+C:\Users\selfmade\source\repos\consoleGame\consoleGame\bin\Debug\consoleGame.exe
+C:\Users\selfmade\source\repos\consoleGame\consoleGame\bin\Debug\consoleGame.pdb
+C:\Users\selfmade\source\repos\consoleGame\consoleGame\bin\Debug\Colorful.Console.dll
+C:\Users\selfmade\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.csprojAssemblyReference.cache
+C:\Users\selfmade\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.csproj.CoreCompileInputs.cache
+C:\Users\selfmade\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.csproj.CopyComplete
+C:\Users\selfmade\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.exe
+C:\Users\selfmade\source\repos\consoleGame\consoleGame\obj\Debug\consoleGame.pdb

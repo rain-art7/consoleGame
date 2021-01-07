@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Console = Colorful.Console;
+using System.Drawing;
 using System.Threading.Tasks;
 
 namespace consoleGame
@@ -9,7 +11,7 @@ namespace consoleGame
     //Class to create a character
     class Character
     {
-        private string _name;                      //character name
+        private string _name;                       //character name
         public string Name
         {
             get
@@ -65,12 +67,11 @@ namespace consoleGame
         //Write atributes of a characters
         public void Stats()
         {
-            Console.WriteLine("\nCharacter stats" +
-                              "\nname: {0}" +
+            Console.WriteLine("\n{0} stats:" +
                               "\ngender: {1}" +
                               "\npower: {2}" +
                               "\nhealth: {3}" +
-                              "\nalive: {4}\n"
+                              "\nalive: {4}\n", Color.Red
                               ,Name,Gender,Strength,Hp, IsAlive);
         }
 
